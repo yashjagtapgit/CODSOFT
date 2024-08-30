@@ -1,5 +1,3 @@
----
-
 # TASK 1 - TITANIC SURVIVAL PREDICTION
 **Codsoft Data Science Internship**
 > Author: Yash Jagtap
